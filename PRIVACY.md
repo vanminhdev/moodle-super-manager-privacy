@@ -5,8 +5,6 @@ Cập nhật lần cuối / Last updated: 15/10/2026
 
 Phiên bản / Version: 1.1
 
-Tác giả / Publisher: Lê Văn Minh — vanminh.dev@gmail.com
-
 ---
 
 ## Tiếng Việt
@@ -30,8 +28,8 @@ Nếu giảng viên tự bật, tiện ích chỉ nói chuyện với một chư
 ### Mã chạy trong tiện ích
 Toàn bộ mã nằm trong gói cài đặt; tiện ích không tải hay chạy mã từ bên ngoài.
 
-### Liên hệ và thay đổi
-Mọi câu hỏi hoặc yêu cầu xóa dữ liệu: vanminh.dev@gmail.com. Nếu chính sách thay đổi, nội dung mới sẽ được đăng tại địa chỉ này kèm ngày cập nhật.
+### Câu hỏi và thay đổi chính sách
+Câu hỏi về chính sách này: mở một mục (Issue) tại https://github.com/vanminhdev/moodle-super-manager-privacy/issues. Vì tác giả không lưu dữ liệu nào của giảng viên hay sinh viên nên không có dữ liệu để yêu cầu xóa; dữ liệu nằm trong LMS và e-office của trường (liên hệ nhà trường). Nếu chính sách thay đổi, nội dung mới sẽ được đăng tại địa chỉ này kèm ngày cập nhật.
 
 ---
 
@@ -56,5 +54,5 @@ If the instructor turns it on, the extension talks only to a bridge program **ru
 ### Code
 All code ships inside the package; the extension does not download or run remote code.
 
-### Contact and changes
-Questions or data deletion requests: vanminh.dev@gmail.com. If this policy changes, the new version will be posted at this address with the update date.
+### Questions and policy changes
+Questions about this policy: open an Issue at https://github.com/vanminhdev/moodle-super-manager-privacy/issues. Because the author stores no data about instructors or students, there is no data held by the author to delete; data lives in the university's LMS and e-office (contact the university). If this policy changes, the new version will be posted at this address with the update date.
