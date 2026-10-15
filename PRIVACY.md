@@ -3,6 +3,8 @@
 
 Cập nhật lần cuối / Last updated: 15/10/2026
 
+Phiên bản / Version: 1.1
+
 Tác giả / Publisher: Lê Văn Minh — vanminh.dev@gmail.com
 
 ---
